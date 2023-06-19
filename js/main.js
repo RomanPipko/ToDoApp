@@ -56,7 +56,6 @@ function addTask(event) {
   // if (tasksList.children.length > 1) {
   //   emptyList.classList.add('none')
   // }
-
   checkEmptyList()
 }
 
